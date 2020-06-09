@@ -1,0 +1,18 @@
+PODS:
+  - TencentOpenAPISwift (0.1.0):
+    - TencentOpenAPISwift/TencentOpenAPI (= 0.1.0)
+  - TencentOpenAPISwift/TencentOpenAPI (0.1.0)
+
+DEPENDENCIES:
+  - TencentOpenAPISwift (from `../`)
+
+EXTERNAL SOURCES:
+  TencentOpenAPISwift:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  TencentOpenAPISwift: 64a9706500d0397bfc79d941841bbd4f2d8c1f65
+
+PODFILE CHECKSUM: 44de17f5c72a8e849d130fbeee9a55117701ed39
+
+COCOAPODS: 1.8.4

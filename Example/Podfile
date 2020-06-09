@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'TencentOpenAPISwift_Example' do
+  pod 'TencentOpenAPISwift', :path => '../'
+
+  target 'TencentOpenAPISwift_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
